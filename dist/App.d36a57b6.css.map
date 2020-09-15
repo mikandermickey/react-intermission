@@ -1,0 +1,1 @@
+{"version":3,"sources":["Header.scss"],"names":[],"mappings":"AAAA;EACI;;AAEA;EACI","file":"App.d36a57b6.css","sourceRoot":"../src","sourcesContent":[".myheader{\n    background-color: rosybrown;\n\n    &__text{\n        color: aqua;\n    }\n}"]}
